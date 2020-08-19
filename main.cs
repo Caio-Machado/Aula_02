@@ -23,7 +23,7 @@ class MainClass {
     Console.WriteLine ("A soma dos números infornados é {0}", num1 + num2);
   }
 
-  //Função Média
+  //Função Média / Exercício 04
   public static void Media (int nota1, int nota2, int nota3, int nota4) {
     Console.WriteLine ("A Média das notas informadas é {0}", (nota1 + nota2 + nota3 + nota4) / 4);
   }
